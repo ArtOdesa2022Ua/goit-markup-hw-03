@@ -46,6 +46,8 @@ img {
 }
 
 .list {
+    display: flex;
+    gap: 40px;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -58,8 +60,23 @@ img {
 
 
 /* ----------------- Header START ----------------- */
-
+.header {
+    border-bottom: 1px solid #e7e9fc;
+}
+.logo-address {
+    display: flex;
+    align-items: center;
+}
+.container {
+    width: 1158px;
+    padding: 0 15px;
+}
+.navigation {
+    display: flex;
+    align-items: center;
+}
 .logo {
+    margin-right: 76px;
     font-family: var(--secondary-font);
     font-weight: 800;
     font-size: 18px;
