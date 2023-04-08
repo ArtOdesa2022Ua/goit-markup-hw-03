@@ -130,6 +130,8 @@ img {
     color: #434455;
 }
 .address {
+    gap: 40px;
+    display: flex;
     font-style: normal;
     list-style-type: none;
     text-decoration: none;
@@ -335,9 +337,23 @@ img {
 /* ----------------- Footer END -----------------*/
 
 /* ----------------- Portfolio START ----------------- */
+.header-portfolio {
+    border-bottom: 1px solid #e7e9fc;
+}
+.header-item {
+    display: flex;
+    align-items: center;
+}
+.nav {
+    display: flex;
+    align-items: center;
+}
+.menu {
+    display: flex;
+    gap: 40px;
+}
 
 .filter-btn {
-
 }
 
 .btn list {
