@@ -138,7 +138,7 @@ img {
 /* ----------------- Heder END -----------------*/
 
 
-/* ----------------- Hero image START ----------------- */
+/* ----------------- section 1 Hero image START ----------------- */
 .hero-image {
     padding: 188px 0 188px;
     background: #2E2F42;
@@ -178,10 +178,10 @@ img {
     background-color: var(--color-ocean);
 }
 
-/* ----------------- Hero image END ----------------- */
+/* ----------------- section 1 Hero image END ----------------- */
 
 
-/* ----------------- section 1 START -----------------*/
+/* ----------------- section 2 START -----------------*/
 .sect-one {
     padding: 120px 0;
 }
@@ -209,10 +209,10 @@ img {
     flex-basis: calc((100% - 72px) / 4);
     
 }
-/* ----------------- section 1 END -----------------*/
+/* ----------------- section 2 END -----------------*/
 
 
-/* ----------------- section 2 START -----------------*/
+/* ----------------- section 3 START -----------------*/
 .portf {
     padding-bottom: 120px;
 
@@ -238,10 +238,10 @@ img {
     width: calc((100% - 48px) / 3);
 }
 
-/* ----------------- section 2 END -----------------*/
+/* ----------------- section 3 END -----------------*/
 
 
-/* ----------------- section 3 START -----------------*/
+/* ----------------- section 4 START -----------------*/
 
 .cont {
     background-color: #F4F4FD;
@@ -282,7 +282,7 @@ img {
     border-radius: 0px 0px 4px 4px;
 }
 
-/* ----------------- section 3 END -----------------*/
+/* ----------------- section 4 END -----------------*/
 
 
 /* ----------------- Footer START -----------------*/
