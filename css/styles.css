@@ -215,7 +215,9 @@ img {
 /* ----------------- section 3 START -----------------*/
 .portf {
     padding-bottom: 120px;
-
+}
+.portf-one {
+    width: calc((100% - 48px) / 3);
 }
 .section-two {
     margin-bottom: 72px;
