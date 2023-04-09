@@ -20,7 +20,11 @@ h2,
 h3,
 h4,
 h5 {
-    margin: 0;
+    margin: 0 auto;
+}
+ul {
+    margin: 0 auto;
+    padding-left: 0;
 }
 /* ----------------- Body START----------------- */
 body {
