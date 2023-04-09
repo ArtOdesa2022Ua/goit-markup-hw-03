@@ -192,7 +192,6 @@ img {
 /* ----------------- section 2 START -----------------*/
 .sect-one {
     padding: 120px 0;
-    flex-basis: calc((100% - 72px) / 4);
 }
 .title {
     margin-bottom: 8px;
@@ -214,8 +213,7 @@ img {
     gap: 24px;
 }
 .section-strategy {
-    
-    
+    flex-basis: calc((100% - 72px) / 4);
 }
 /* ----------------- section 2 END -----------------*/
 
