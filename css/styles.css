@@ -358,7 +358,7 @@ img {
     gap: 40px;
 }
 .button-list {
-    padding-top: 96px;
+    padding: 96px 0 120px;
 }
 .btn-list {
     margin-bottom: 72px;
@@ -393,14 +393,6 @@ img {
     color: #FFFFFF;
     background-color: #404bbf;
 }
-
-.banking-app {
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: var(--color-navy-blue);
-}
 .rowone {
     display: flex;
     flex-wrap: wrap;
@@ -414,5 +406,12 @@ img {
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
+}
+.banking-app {
     margin-bottom: 8px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: var(--color-navy-blue);
 }
